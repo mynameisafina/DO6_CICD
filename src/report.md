@@ -139,7 +139,7 @@ result:
 
 ## Part 6. Notifications
 
-create telegram bot using @FatherBot
+create telegram bot using @BotFather
 
 get the bot's token and use it in our script from materials/notification.md (see src/notify.sh)
 
